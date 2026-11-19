@@ -1,0 +1,186 @@
+{
+ "version": 11,
+ "raw": {
+  "repo_name": "pizzeria-savonarola-padova-v245",
+  "brand": {
+   "name": "Pizzeria Savonarola",
+   "tagline": "Cucina all'aperto cuore acceso",
+   "sector_en": "pizzeria",
+   "mission": "Un posto dove il fuoco del forno a legna racconta storie di autentica cucina mediterranea, con ingredienti selezionati tra le tradizioni venete e campane.",
+   "keywords": [
+    "autentica",
+    "artigianale",
+    "minimal",
+    "DOP",
+    "forno-a-legna"
+   ],
+   "palette": {
+    "bg": "#f4f0e6",
+    "fg": "#2a2520",
+    "accent": "#a4532f",
+    "muted": "#8c8176",
+    "surface": "#e9e5db"
+   },
+   "font_display": "Gloock",
+   "font_body": "Hanken Grotesk",
+   "art_direction": "Warm artisanal photography with natural light and earthy tones celebrating wood-fired pizza craftsmanship."
+  },
+  "seo": {
+   "description": "Pizzeria Savonarola a Padova. Forno a legna, ingredienti DOP veneti e campani. Prenota il tavolo online."
+  },
+  "nav_cta": {
+   "label": "Prenota ora",
+   "href": "#contatti"
+  },
+  "contact": {
+   "email": "",
+   "phone": "",
+   "address": "",
+   "hours": ""
+  },
+  "sections": [
+   {
+    "type": "hero_image",
+    "role": "attenzione",
+    "eyebrow": "Benvenuti",
+    "title": "Pizza da forno a legna a Padova",
+    "subtitle": "Ingredienti *DOP* e cottura in 90 secondi",
+    "cta": {
+     "label": "Prenota il tuo tavolo",
+     "href": "#contatti"
+    },
+    "image": "client:1"
+   },
+   {
+    "type": "text_reveal",
+    "role": "problema",
+    "kicker": "La frustrazione",
+    "text": "Mangi pizze fredde, impasti senza lievitazione e forni che non scaldano mai veramente. Cerchi una pizza che valga la pena di tornare, ma ogni volta esci deluso. Vuoi il sapore vero, quello che ricordi per anni, non un prodotto da asporto qualsiasi."
+   },
+   {
+    "type": "split",
+    "role": "soluzione",
+    "kicker": "Come lo facciamo",
+    "text": "Ogni pizza nasce da ingredienti *DOP* selezionati, forno a legna acceso 24h e impasto a lievitazione naturale 48h. Un percorso semplice per tornare al sapore vero.",
+    "bullets": [
+     "Forno a legna acceso 24h",
+     "Ingredienti DOP veneti e campani",
+     "Impasto a lievitazione naturale 48h"
+    ],
+    "image": "hands placing fresh pizza dough on a wooden board, flour dusting, natural window light, 50mm lens, warm sand and terracotta colors, artisanal mood, light film grain. Warm artisanal photography with natural light and earthy tones celebrating wood-fired pizza craftsmanship.",
+    "reverse": true
+   },
+   {
+    "type": "offer",
+    "role": "offerta",
+    "kicker": "Specialita della casa",
+    "title": "Pizza Margherita DOP",
+    "text": "La nostra firma: pomodori San Marzano DOP, mozzarella di bufala campana DOP, basilico genuino. Un'esperienza che torna alla sua origine.",
+    "points": [
+     "Cottura 90 secondi in forno a legna",
+     "Pomodori San Marzano DOP",
+     "Mozzarella di bufala campana DOP",
+     "Basilico appena coltivato"
+    ],
+    "price": "su preventivo",
+    "note": "Prenotazione consigliata per tavoli numerosi",
+    "cta": {
+     "label": "Prenota ora",
+     "href": "#contatti"
+    }
+   },
+   {
+    "type": "stats",
+    "role": "usp",
+    "title": "Perché scegliere Savonarola",
+    "items": [
+     {
+      "value": "100",
+      "suffix": "%",
+      "label": "Ingredienti DOP"
+     },
+     {
+      "value": "90",
+      "suffix": " secondi",
+      "label": "Cottura in forno a legna"
+     },
+     {
+      "value": "365",
+      "suffix": "+ giorni",
+      "label": "Forno acceso tutto l'anno"
+     },
+     {
+      "value": "15",
+      "suffix": " anni",
+      "label": "Di tradizione impiegata"
+     }
+    ]
+   },
+   {
+    "type": "proof",
+    "role": "prova",
+    "kicker": "Chi ha provato",
+    "title": "Le nostre recensioni",
+    "items": [
+     {
+      "quote": "",
+      "author": "",
+      "detail": ""
+     }
+    ]
+   },
+   {
+    "type": "cta",
+    "role": "cta",
+    "title": "Vieni a trovarci",
+    "text": "Prenota il tuo tavolo e scopri lo sapore di una pizza cotta nel forno a legna.",
+    "cta": {
+     "label": "Prenota ora",
+     "href": "#contatti"
+    }
+   },
+   {
+    "type": "faq",
+    "role": "faq",
+    "kicker": "Domande frequenti",
+    "title": "Tutto quello che devi sapere",
+    "items": [
+     {
+      "q": "Accettate prenotazioni online?",
+      "a": "Sì, prenota il tuo tavolo direttamente dal sito."
+     },
+     {
+      "q": "Usate ingredienti DOP?",
+      "a": "Sì, solo ingredienti con denominazione di origine protetta, selezionati tra le tradizioni venete e campane."
+     },
+     {
+      "q": "C'è il forno a legna?",
+      "a": "Sì, il forno è acceso ogni giorno e cuoce le pizze in 90 secondi."
+     },
+     {
+      "q": "Dove siete a Padova?",
+      "a": "Nel centro di Padova, in Savonarola."
+     }
+    ]
+   }
+  ],
+  "todo": [
+   "indirizzo esatto a Padova",
+   "numero di telefono",
+   "indirizzo email",
+   "orari di apertura",
+   "link prenotazione online",
+   "foto del locale",
+   "foto del forno a legna",
+   "logo del brand",
+   "recensioni reali da inserire nella sezione prova"
+  ]
+ },
+ "logo": null,
+ "favicon": null,
+ "model": null,
+ "video": null,
+ "images": {
+  "ed56f59d1f5c": "assets/img/ed56f59d1f5c.webp"
+ }
+}
